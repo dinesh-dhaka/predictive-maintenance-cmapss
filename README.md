@@ -1,1 +1,1 @@
-# predictive-maintainance-cmapss
+# predictive-mainteinance-cmapss
